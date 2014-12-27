@@ -35,7 +35,7 @@ PRODUCT_COPY_FILES += \
 # Build Properties for Prime
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.rommanager.developerid=shoredroid \
-    ro.modversion=Prime_DEV_20141226 \
+    ro.modversion=Prime_PREVIEW_20141227 \
     ro.config.ringtone=RollOut.ogg \
     ro.config.notification_sound=Autobots.ogg
 
