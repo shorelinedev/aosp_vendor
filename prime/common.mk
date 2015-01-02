@@ -35,11 +35,11 @@ PRODUCT_COPY_FILES += \
 # Build Properties for Prime
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.rommanager.developerid=shoredroid \
-    ro.modversion=Prime_PREVIEW_20141227 \
+    ro.modversion=Prime_RELEASE_20150101 \
     ro.config.ringtone=RollOut.ogg \
     ro.config.notification_sound=Autobots.ogg
 
 PRODUCT_PACKAGES += \
     KernelTweaker \
-    Apollo
+    Eleven
     
